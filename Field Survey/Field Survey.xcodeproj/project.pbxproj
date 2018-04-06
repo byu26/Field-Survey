@@ -95,6 +95,7 @@
 		A6839CC62077FD330002A8D6 /* Field Survey */ = {
 			isa = PBXGroup;
 			children = (
+				A6839CF52078035A0002A8D6 /* Model */,
 				A6839CC72077FD330002A8D6 /* AppDelegate.swift */,
 				A6839CCB2077FD330002A8D6 /* Main.storyboard */,
 				A6839CCE2077FD340002A8D6 /* Assets.xcassets */,
@@ -120,6 +121,13 @@
 				A6839CE92077FD340002A8D6 /* Info.plist */,
 			);
 			path = "Field SurveyUITests";
+			sourceTree = "<group>";
+		};
+		A6839CF52078035A0002A8D6 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
